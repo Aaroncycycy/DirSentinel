@@ -1,7 +1,5 @@
 <h1>DirSentinel - Bash-based, Real-time Directory Monitoring and Logging</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 DirSentinel is a versitile Real-time Linux directory monitoring and logging tool made exclusively with bash.
 <br />
